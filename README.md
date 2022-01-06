@@ -1,4 +1,4 @@
-# a
+# CoffeinMinas
 
 ## Project setup
 ```
