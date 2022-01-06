@@ -1,0 +1,102 @@
+{
+  "ingredientes": {
+    "coffe": [
+      {
+        "id": 1,
+        "tipo": "Expresso"
+      },
+      {
+        "id": 2,
+        "tipo": "Coado"
+      },
+      {
+        "id": 3,
+        "tipo": "Americano"
+      },
+      {
+        "id": 4,
+        "tipo": "Cappuccino"
+      }
+    ],
+    "copos": [
+      {
+        "id": 1,
+        "tipo": "200 ml"
+      },
+      {
+        "id": 2,
+        "tipo": "300 ml"
+      },
+      {
+        "id": 3,
+        "tipo": "400 ml"
+      },
+      {
+        "id": 4,
+        "tipo": "500 ml"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Pão de Queijo"
+      },
+      {
+        "id": 2,
+        "tipo": "Biscoito de Polvilho"
+      },
+      {
+        "id": 3,
+        "tipo": "Cookies"
+      },
+      {
+        "id": 4,
+        "tipo": "Pão com Manteiga"
+      },
+      {
+        "id": 4,
+        "tipo": "Croissant"
+      },
+      {
+        "id": 4,
+        "tipo": "Fatia de Bolo"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Preparando"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "coffes": [
+    {
+      "nome": "fabio",
+      "carne": "300 ml",
+      "cafe": "Coado",
+      "opcionais": [
+        "Cookies"
+      ],
+      "status": "Preparando",
+      "id": 1
+    },
+    {
+      "nome": "lari",
+      "carne": "400 ml",
+      "cafe": "Expresso",
+      "opcionais": [
+        "Fatia de Bolo"
+      ],
+      "status": "Finalizado",
+      "id": 2
+    }
+  ]
+}
